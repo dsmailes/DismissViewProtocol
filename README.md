@@ -5,4 +5,4 @@ Usage:
  - conform your view model to `DismissViewProtocol`
  - add an instance of `DismissViewComponent()` to your view model
  - modify your view with `.dismissable(<YourViewModel>)`
- - set `DismissViewComponent().shouldDismissView` to true when you want to dismiss your view
+ - set `DismissViewComponent().shouldDismissView` to `true` when you want to dismiss your view
